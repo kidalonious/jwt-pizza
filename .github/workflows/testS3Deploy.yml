@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 permissions:
   id-token: write
-
+ 
 jobs:
   deploy-s3:
     runs-on: ubuntu-latest
