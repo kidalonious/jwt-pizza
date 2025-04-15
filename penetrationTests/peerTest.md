@@ -157,7 +157,7 @@ Use a third-party package for password strength checking and require a certain l
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Admin user credentials](./penTesting1.png.png) | logged in admin account |
+| ![Admin user credentials](./penTesting1.png) | logged in admin account |
 | ![Empty stores list](./penTesting2.png) | Stores and Franchises Deleted |
 
 
